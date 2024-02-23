@@ -2,7 +2,7 @@
 
 This repository hosts a Python project dedicated to exploring and analyzing real-world crime data spanning from 2020 to the present year. The project encompasses a comprehensive exploration of various analytical solutions aimed at understanding crime trends, patterns, and influencing factors.
 
-Link to dataset - [Crime Data from 2020-Present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
+**Link to dataset** - [Crime Data from 2020-Present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
 
 ### Project Summary:
 
