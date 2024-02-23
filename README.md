@@ -6,50 +6,60 @@ This repository hosts a Python project dedicated to exploring and analyzing real
 
 Throughout this project, a range of analytical solutions have been explored, covering data cleaning, exploratory data analysis (EDA), and advanced statistical techniques. Here's an overview of the tasks undertaken:
 
-1. Data Acquisition and Inspection:
+#### Data Acquisition and Inspection:
 
 The dataset was sourced from the provided link and loaded into the preferred data analysis tool. Initial inspection involved examining data types and column descriptions.
 
-2. Data Cleaning:
+#### Data Cleaning:
 
 Missing data were appropriately handled, duplicate rows were removed, and data types were converted as necessary. Outliers were identified and addressed, and numerical data were standardized or normalized. Categorical data were encoded where applicable.
 
-3. Exploratory Data Analysis (EDA):
+#### Exploratory Data Analysis (EDA):
 
 Visualizations were generated to understand overall crime trends and seasonal patterns. The most common crime types were identified, and their trends over time were analyzed. Regional differences in crime rates were explored, along with correlations between economic factors and crime rates. Analysis was conducted on the relationship between the day of the week and crime frequencies, and the impact of major events or policy changes on crime rates was investigated.
 
-4. Advanced Analysis:
+#### Advanced Analysis:
 
-Predictive modeling techniques, such as time series forecasting, were employed to predict future crime trends. Additional questions or hypotheses related to the dataset were explored.
-Solutions Implemented:
+Predictive modeling techniques, such as time series forecasting, were employed to predict future crime trends.
 
-Overall Crime Trends:
+### Additional questions or hypotheses related to the dataset were explored.
+
+#### Overall Crime Trends:
 
 Total number of crimes per year was calculated and visualized to illustrate trends.
-Seasonal Patterns:
+
+#### Seasonal Patterns:
 
 Monthly crime averages over the years were analyzed to identify seasonal patterns.
-Most Common Crime Type:
+
+#### Most Common Crime Type:
 
 Occurrences of each crime type were counted, and the most frequent type was determined.
-Regional Differences:
+
+#### Regional Differences:
 
 Crime rates were compared between regions or cities using descriptive statistics or visualizations.
-Correlation with Economic Factors:
+
+#### Correlation with Economic Factors:
 
 Statistical methods like correlation analysis were used to assess the relationship between economic factors and crime rates.
-Day of the Week Analysis:
+
+#### Day of the Week Analysis:
 
 Crime frequencies were analyzed for each day of the week.
-Impact of Major Events:
+
+#### Impact of Major Events:
 
 Changes in crime rates before and after major events or policy changes were examined.
-Outliers and Anomalies:
+
+#### Outliers and Anomalies:
 
 Statistical methods and data visualization techniques were employed to identify dataset outliers and unusual patterns.
-Demographic Factors:
+
+#### Demographic Factors:
 
 Patterns or correlations between demographic factors and specific types of crimes were explored.
-Predicting Future Trends:
+
+#### Predicting Future Trends:
 
 Time series forecasting methods were used to predict future crime trends based on historical data.
